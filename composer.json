@@ -1,0 +1,17 @@
+{
+    "name": "zila/kontruksi",
+    "description": "pembuatan library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jisyaa",
+            "email": "jisyaa@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"zila\\kontruksi\\" : "src"}
+    },
+    "require": {}
+}
